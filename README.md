@@ -7,6 +7,14 @@
 
 - certificate -> SYCP by [solyd](https://solyd.com.br/)<br/>
 
+
+## DAY TO DAY USE
+
+- kali linux
+
+- vscode
+
+- tails
 ##
 ### SOCIAL MEDIA
 
